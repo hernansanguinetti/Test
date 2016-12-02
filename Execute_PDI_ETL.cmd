@@ -1,0 +1,1 @@
+kitchen.bat /level:Detailed /logfile:c:\AEX\Logging\logFile.log /file:D:\git\Hernán\aex-fast-access\ETL\00_Load_staging_and_dw.kjb
